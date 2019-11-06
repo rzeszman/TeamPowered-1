@@ -10,6 +10,7 @@ namespace TeamPowered
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Something to print");
         }
     }
 }
