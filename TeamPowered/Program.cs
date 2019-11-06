@@ -10,7 +10,7 @@ namespace TeamPowered
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("This line is added by master")
+            Console.WriteLine("This line is added by master");
             Console.WriteLine("Something to print");
         }
     }
