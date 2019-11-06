@@ -10,7 +10,9 @@ namespace TeamPowered
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("This line is added by master")
+            Console.WriteLine("This line is added by master");
+            
+            // Ok. Merging here is very easy. So far.
         }
     }
 }
